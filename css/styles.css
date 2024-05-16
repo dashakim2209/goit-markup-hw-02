@@ -70,7 +70,6 @@ ol {
 }
 
 .title-btn {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
 
   font-weight: 500;
@@ -120,10 +119,11 @@ ol {
 }
 
 .team {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .team-list {
+  background-color: #ffffff;
 }
 
 .team-list-item {
