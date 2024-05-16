@@ -87,7 +87,6 @@ ol {
 }
 
 .features-list {
-  background-color: #ffffff;
 }
 
 .features-list-item {
@@ -125,6 +124,7 @@ ol {
 }
 
 .team-list-item {
+  background-color: #ffffff;
 }
 
 .team-img {
@@ -137,7 +137,6 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #ffffff;
 }
 
 .team-text {
@@ -146,7 +145,6 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  background-color: #ffffff;
 }
 
 .portfolio-title {
