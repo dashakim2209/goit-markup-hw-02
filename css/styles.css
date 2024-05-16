@@ -83,7 +83,6 @@ ol {
 
 .title-btn:hover,
 .title-btn:focus {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #404bbf;
 }
 
@@ -123,7 +122,6 @@ ol {
 }
 
 .team-list {
-  background-color: #ffffff;
 }
 
 .team-list-item {
@@ -139,6 +137,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  background-color: #ffffff;
 }
 
 .team-text {
@@ -147,6 +146,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  background-color: #ffffff;
 }
 
 .portfolio-title {
