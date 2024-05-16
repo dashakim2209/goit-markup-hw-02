@@ -89,6 +89,7 @@ ol {
 }
 
 .features-list {
+  background-color: #ffffff;
 }
 
 .features-list-item {
@@ -115,6 +116,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .team {
@@ -149,10 +151,11 @@ ol {
 
 .portfolio-title {
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portfolio-list {
@@ -194,7 +197,7 @@ ol {
 }
 
 .logo-colored-footer {
-  color: #f4f4f4;
+  color: #f4f4fd;
 }
 
 .footer-text {
